@@ -1,10 +1,12 @@
-# ToDo-app
+![image](https://github.com/user-attachments/assets/a522cb14-a24f-4bc7-80bd-fa4b8b7b3304)# ToDo-app
 To-do list website made with React JS, Tailwind CSS, TypeScript, Redux Toolkit and more.
 
-![page initiale](https://raw.githubusercontent.com/x1-il/todo-app/main/public/To-Do%20List%20_%20All%20tasks.png)
-![add task](https://user-images.githubusercontent.com/120943267/236889340-925ea5b6-7b8e-43e3-8021-d568d7e9cdf7.png)
+![Screenshot 2024-11-24 203203](https://github.com/user-attachments/assets/1abf8472-d84b-42e7-a5df-76edac28512a)
+![image](https://github.com/user-attachments/assets/307cf9dc-f7c9-4f79-9b1f-5709392794f6)
+
 Dark mode:
-![image](https://user-images.githubusercontent.com/120943267/236889977-385bdad3-1eaf-4625-b71e-22d03e6b2731.png)
+![Screenshot 2024-11-24 203007](https://github.com/user-attachments/assets/cd9ad1e2-774e-4da9-bde8-fd82e6da3518)
+
 
 ## Description
 
@@ -27,21 +29,22 @@ The project mainly aimed to put into practice knowledge of TypeScript, Tailwind,
 - Redux Toolkit
 - React Router DOM
 - HTML
-- Figma (prototyping)
+  
+
 
 ## How to test
 
-You can access the project here: https://todo-app-all.netlify.app/
+You can access the project here: https://to-do-list-assignment-6n2mgazkg.vercel.app/
 
 Or run on your machine:
 
 clone project
 ```
-git clone https://github.com/aridsm/tasks-app.git
+git clone https://github.com/Mohan16122003/To_Do_List_Assignment.git
 ```
 go to projet
 ```
-cd tasks-app
+cd To_Do_List_Assignment
 ```
 install npm
 ```
